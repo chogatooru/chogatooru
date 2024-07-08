@@ -1,6 +1,6 @@
 <h2 align="center"> Welcome to my GitHub! 👋 <br/> </h2>
 
-<img width="40%" align="right" alt="Github" src="https://octodex.github.com/images/pusheencat.png" />
+<img width="50%" align="right" alt="Github" src="https://octodex.github.com/images/pusheencat.png" />
 
 ### ⚡ Technologies
 - Front-end development using React, TypeScript, MUI
