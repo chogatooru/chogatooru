@@ -1,6 +1,6 @@
 <h2 align="center"> Welcome to my GitHub! 👋 <br/> </h2>
 
-<img width="40%" align="right" alt="Github" src="https://camo.githubusercontent.com/adc1b8ccf63e3fc5944e63679358d97a570848a83210172b96a5700048750d76/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6c6f76656c6c2f7368617270406d61696e2f646f63732f696d6167652f73686172702d6c6f676f2e737667" />
+<img width="40%" align="right" alt="Github" src="https://octodex.github.com/images/pusheencat.png" />
 
 ### ⚡ Technologies
 - Front-end development using React, TypeScript, MUI
