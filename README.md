@@ -1,5 +1,9 @@
 <h2 align="center"> Welcome to my GitHub! 👋 <br/> </h2>
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chogatooru&hide=javascript,css,scss,html&theme=tokyonight)
+
+
+
 <img width="50%" align="right" alt="Github" src="https://octodex.github.com/images/pusheencat.png" />
 
 ### ⚡ Technologies
