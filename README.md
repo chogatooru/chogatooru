@@ -16,7 +16,7 @@ Languages I use: <br>
 ![CSS3](https://img.shields.io/badge/-CSS3-141414?style=flat&logo=css3)
 
 Tools & technologies I have worked with: <br>
-![MySQL](https://img.shields.io/badge/-MySQL-141414?style=flat&logo=mysql)
+![MySQL](https://img.shields.io/badge/-PostMan-141414?style=flat&logo=postman)
 ![Node](https://img.shields.io/badge/-Node-141414?style=flat&logo=node.js)
 ![Docker](https://img.shields.io/badge/-Docker-141414?style=flat&logo=docker)
 ![Azure](https://img.shields.io/badge/-Azure-141414?style=flat&logo=microsoft-azure)
