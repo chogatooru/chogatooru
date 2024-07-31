@@ -20,7 +20,6 @@ Tools & technologies I have worked with: <br>
 ![Node](https://img.shields.io/badge/-Node-141414?style=flat&logo=node.js)
 ![Docker](https://img.shields.io/badge/-Docker-141414?style=flat&logo=docker)
 ![Azure](https://img.shields.io/badge/-Azure-141414?style=flat&logo=microsoft-azure)
-![Git](https://img.shields.io/badge/-Git-141414?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-141414?style=flat&logo=github)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-141414?style=flat&logo=visual-studio)
 
@@ -30,6 +29,7 @@ Tools & technologies I have worked with: <br>
 - Contribute to open-source projects
 - Explore new programming languages and technologies
 - Enhance my full-stack development skills
+- Pass the Azure certification exam
 
 ---
 
