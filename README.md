@@ -5,7 +5,6 @@
 ### ⚡ Technologies
 - Front-end development using React, TypeScript, MUI
 - Backend development using .NET, C#, EFCore
-- Deployment using Docker and Azure
 
 Languages I use: <br>
 ![C#](https://img.shields.io/badge/-C%20Sharp-141414?style=flat&logo=c-sharp)
