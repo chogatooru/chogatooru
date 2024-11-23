@@ -24,7 +24,7 @@ Tools & technologies I have worked with: <br>
 
 ---
 
-### 💡 Goals for 2024
+### 💡 About Me
 - Contribute to open-source projects
 - Explore new programming languages and technologies
 - Enhance my full-stack development skills
