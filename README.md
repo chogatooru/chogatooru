@@ -29,7 +29,7 @@ Tools & technologies I have worked with: <br>
 ---
 
 ### 🌴 Fun facts
-- When I'm not coding, you can find me exploring new game worlds, sketching digital art, or playing with cats.
+- When I'm not coding, you can find me exploring new game worlds.
 - I love to draw anime characters and create digital art.
 - Cat enthusiast, world traveler, indie game developer.
 
