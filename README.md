@@ -21,7 +21,7 @@ Tools & technologies I have worked with: <br>
 
 ---
 
-### 💡 About Me
+### 💡 Goals
 - Enhance user experiences through innovative design and technology
 - Explore new programming languages and technologies
 - Bridge the gap between art and programming in interactive media
